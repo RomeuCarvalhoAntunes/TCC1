@@ -1,10 +1,10 @@
-# US X - NOME HISTÓRIA DE USUÁRIO
+# FEATURE X - NOME DA FEATURE
 ---
 ## Descrição:
-Pequena e útil descrção a respeito da US.
+Pequena e útil descrção a respeito da feature.
 
 ## Tarefas
-Tarefas pequenas que levarão a conclusão da US
+Tarefas pequenas que levarão a conclusão da feature
 - [ ] Tarefa 01;
 - [ ] Tarefa 02;
 - [ ] Tarefa 03;
@@ -13,5 +13,5 @@ Tarefas pequenas que levarão a conclusão da US
 ### Observações
 - [ ] Empecilho;
 - [ ] Atraso;
-- Qualquer observação importante a respeito da US, ou das tarefas;
+- Qualquer observação importante a respeito da feature, ou das tarefas;
 
