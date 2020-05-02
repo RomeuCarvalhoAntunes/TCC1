@@ -1,0 +1,7 @@
+README.md
+setup.py
+html_accessibility_tests/__init__.py
+html_accessibility_tests_Romeu_Antunes.egg-info/PKG-INFO
+html_accessibility_tests_Romeu_Antunes.egg-info/SOURCES.txt
+html_accessibility_tests_Romeu_Antunes.egg-info/dependency_links.txt
+html_accessibility_tests_Romeu_Antunes.egg-info/top_level.txt

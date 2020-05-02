@@ -1,0 +1,33 @@
+Referencia == https://packaging.python.org/glossary/#term-import-package
+
+
+Referencia == https://docs.python.org/3/tutorial/modules.html#packages
+
+Modulos
+
+
+Caso o usuario escreva um programa python dentro do interpretador e por algum motivo ele feche, 
+todas as linhas de codigo criadas as funcoes e variaveis, serao perdidas. Por isso se recomenda a utilizacao de arquivos
+onde o usuario escreve o codigo e utiliza o interpretador do pthon para compiilar esse arquivo de entrada onde o codigo foi escrito
+esse tipo de arquivo se chama script. A medida que o programa vai ficando complexxo pode se tornar necessario dividir o script emoutros arquivos
+para facilitar sua manutencao e fazer jus as boas praticas de programacao. A vantagem desse tipo de abordagem e poder utilizar as variaves e funcoes
+em outros arquivos sem a necessidade de repeti-los
+
+Para fazer uso deste tipo de comportamento, o python possui uma maneira de colocar este tipo de definicoes em um arquivo e usa-las em outro script 
+ou dentro do prorprio interprete. Este arquivo e chamado de modulo, este que pode ser importado para outros modulos ou para o modulo principal.
+
+Pacotes 
+
+funcionam como um nive acima do modulo, podendo conter dentro de cada pacote varios modulos. Os pacotes possuem namespaces para estruturar melhor 
+os modulos, garantindo que a variavel de um modulo nao seja influenciada nem influencie em outra. O pthon permite a importacao de um modulo especifico
+mesmo que dentro de um pacote
+
+
+
+---------------
+cRIANDO UM PACOTE 
+
+Referencia == https://packaging.python.org/tutorials/packaging-projects/
+
+Primeiramente deve-se criar uma estrutura de pastas neste formato onde teremos 
+
